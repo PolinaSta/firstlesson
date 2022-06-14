@@ -59,3 +59,47 @@
 
 
 
+// ДОМАШНЕЕ ЗАДАНИЕ
+
+// 1) Напишите программу, которая на вход принимает два числа и выдаёт, какое число большее, а какое меньшее.
+// Console.WriteLine("input first number");
+// int num1 = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("input second number");
+// int num2 = Convert.ToInt32(Console.ReadLine());
+// if (num1>num2){
+//    Console.WriteLine("max: " + num1);
+//    Console.WriteLine("min: " + num2);
+// }
+// else {
+//    Console.WriteLine("max: " + num2);
+//    Console.WriteLine("min: " + num1);
+//     }
+
+
+// 2) Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
+// Console.WriteLine("input first number");
+// int num1 = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("input second number");
+// int num2 = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("input third number");
+// int num3 = Convert.ToInt32(Console.ReadLine());
+// int max=0;
+// if (num1>num2){
+//     max=num1;
+// }
+// else {
+//     max=num2;
+// }
+// if (max<num3){
+//     max=num3;
+// }
+// Console.WriteLine("max number is " + max);
+
+
+// 3) Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
+Console.WriteLine("input first number");
+int num = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine(num % 2);
+
+// 4) Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
+
