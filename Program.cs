@@ -97,9 +97,29 @@
 
 
 // 3) Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
-Console.WriteLine("input first number");
-int num = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine(num % 2);
+// Console.WriteLine("Введите число ");
+// int num = Convert.ToInt32(Console.ReadLine());
+// if (num % 2 == 0){
+//     Console.WriteLine(num + " - четное число");
+// }
+// else{
+//     Console.WriteLine(num + " - не четное число");
+// }
+
 
 // 4) Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
-
+// Console.WriteLine("Введите число N: ");
+// int num = Convert.ToInt32(Console.ReadLine());
+// int current;
+// if (num < 0){
+//     current = num;
+//     num = num * (-1);
+// }
+// else {
+//     current = -1 * num;
+// }
+// while (current < num-1){
+//     current++;
+// if (current % 2 == 0){
+//     Console.Write(current + " ");}
+// }
