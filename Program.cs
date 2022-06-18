@@ -1,10 +1,10 @@
-﻿// Первая задача
+﻿// 1. Первая задача
 // Console.WriteLine("input integer number");
 // int num = Convert.ToInt32(Console.ReadLine());
 // int result = num * num;
 // Console.WriteLine("result is" + result);
 
-// Напишите программу, которая на вход принимает два числа и проверяет, является ли первое число квадратом второго.
+// 2. Напишите программу, которая на вход принимает два числа и проверяет, является ли первое число квадратом второго.
 // Console.WriteLine("input first number");
 // int num1 = Convert.ToInt32(Console.ReadLine());
 // Console.WriteLine("input second number");
