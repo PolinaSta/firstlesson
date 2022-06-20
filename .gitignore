@@ -1,3 +1,5 @@
 *.csproj
 obj
 bin
+First/Program.cs
+Lesson_/oneL/Program.cs
